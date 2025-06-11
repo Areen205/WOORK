@@ -220,3 +220,4 @@ public class ChromeDinosaur implements ActionListener, KeyListener {
     @Override public void keyTyped(KeyEvent e) {}
 }
 
+//
